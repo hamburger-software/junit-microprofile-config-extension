@@ -3,7 +3,7 @@
 
     <groupId>de.hamburger-software.util</groupId>
     <artifactId>junit-microprofile-config-extension</artifactId>
-    <version>0.9.0</version>
+    <version>0.9.1-SNAPSHOT</version>
 
     <name>JUnit 5 MicroProfile Config Extension</name>
     <description>A JUnit 5 extension for parameterizing test with Eclipse MicroProfile Config.</description>
@@ -29,7 +29,7 @@
         <connection>scm:git:https://github.com/hamburger-software/junit-microprofile-config-extension.git</connection>
         <developerConnection>scm:git:https://github.com:hamburger-software/junit-microprofile-config-extension.git</developerConnection>
         <url>https://github.com/hamburger-software/junit-microprofile-config-extension/tree/master</url>
-      <tag>v0.9.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <distributionManagement>
