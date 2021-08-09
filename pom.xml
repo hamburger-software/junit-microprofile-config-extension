@@ -6,7 +6,7 @@
     <version>0.9.1-SNAPSHOT</version>
 
     <name>JUnit 5 MicroProfile Config Extension</name>
-    <description>A JUnit 5 extension for parameterizing test with Eclipse MicroProfile Config.</description>
+    <description>A JUnit 5 extension for parameterizing tests with MicroProfile Config.</description>
     <url>https://github.com/hamburger-software/junit-microprofile-config-extension</url>
 
     <licenses>
