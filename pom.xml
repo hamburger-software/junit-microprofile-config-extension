@@ -109,7 +109,7 @@
                 <configuration>
                     <environmentVariables>
                         <DEFINED_STRING_PROPERTY_ENV>defined in env</DEFINED_STRING_PROPERTY_ENV>
-                        <DEFINED_INTEGER_PROPERTY>42</DEFINED_INTEGER_PROPERTY>
+                        <DEFINED_INTEGER_PROPERTY_ENV>42</DEFINED_INTEGER_PROPERTY_ENV>
                     </environmentVariables>
                     <systemPropertyVariables>
                         <defined.string.property.sys>defined in system properties</defined.string.property.sys>
