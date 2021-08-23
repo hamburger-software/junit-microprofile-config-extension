@@ -58,8 +58,10 @@ Add this fragment to your project's _pom.xml_.
         <dependency>
             <groupId>de.hamburger-software.util</groupId>
             <artifactId>junit-microprofile-config-extension</artifactId>
-            <version>0.9.0</version>
+            <version>1.0.0</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
 ```
+
+Be sure to use the latest release in the `<version>` element.
